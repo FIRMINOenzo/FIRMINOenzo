@@ -11,7 +11,7 @@ Eai! Eu sou o Enzo Firmino... 🖖
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
                     </a>
 
-<img alt="Enzo-Languages" src="https://skillicons.dev/icons?i=nodejs,spring,js,html,css,java,php">
+<img alt="Enzo-Languages" src="https://skillicons.dev/icons?i=java,spring,nodejs,nextjs,mysql,postgres,neovim">
 
 ##
 
