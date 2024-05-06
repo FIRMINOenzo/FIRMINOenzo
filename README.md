@@ -1,9 +1,8 @@
-Eai! Eu sou o Enzo Firmino... 🖖
+Eai! Eu sou o Enzo Campanari... 🖖
 
 
 - 💻 Desenvolvedor Back-End 
-- 🔭 Estou buscando oportunidades no mercado de trabalho
-- ⚡ Cursando Análise e Desenvolvimento de Sistemas
+- ⚡ 5° Análise e Desenvolvimento de Sistemas
 - 🌱 Back-End Java Spring
 - 🎯 Todo dia buscando subir um degrau à caminho do sucesso!
 - 👀 Meu LinkedIn: <a href="https://www.linkedin.com/in/enzo-campanari-149097256/" target="_blank">
@@ -11,7 +10,7 @@ Eai! Eu sou o Enzo Firmino... 🖖
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
                     </a>
 
-<img alt="Enzo-Languages" src="https://skillicons.dev/icons?i=java,spring,nodejs,nextjs,mysql,postgres,neovim">
+<img alt="Enzo-Languages" src="https://skillicons.dev/icons?i=java,spring,nodejs,nextjs,mysql,postgres,docker,redis,mongo">
 
 ##
 
