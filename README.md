@@ -6,7 +6,7 @@ Eai! Eu sou o Enzo Firmino... 🖖
 - ⚡ Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Back-End Java Spring
 - 🎯 Todo dia buscando subir um degrau à caminho do sucesso!
-- 👀 Meu LinkedIn: <a href="https://www.linkedin.com/in/enzo-firmino-campanari-149097256/" target="_blank">
+- 👀 Meu LinkedIn: <a href="https://www.linkedin.com/in/enzo-campanari-149097256/" target="_blank">
                         <img align="center" alt="Enzo-LinkedIn" height="30" width="40"                    
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
                     </a>
