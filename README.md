@@ -4,8 +4,6 @@
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
                     </a>
 
-<img alt="Enzo-Languages" src="https://skillicons.dev/icons?i=java,spring,nodejs,nextjs,mysql,postgres,docker,redis,mongo">
-
 ##
 
 <div>
